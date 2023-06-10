@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 
-### 💜 About me: 
+### 🌻 About me: 
 
 - 📚: Final year student at SRM Institute of Science and Technology, Chennai. 
 
@@ -11,7 +11,7 @@
 
 ---
 
-### 💙 Languages and Tools:
+### 🖥️ Languages and Tools:
 
 <div>
 
@@ -26,7 +26,14 @@
 
 ---
 
-### 💚 Socials:
+### ⚡ Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vedaareydeva&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vedaareydeva&count_private=true&show_icons=true&theme=dark)
+
+
+---
+
+### ❤️ Socials:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/vaidehi-deshmukh-768677216/">
@@ -34,8 +41,7 @@
   </a>
 </div>
 
-
-
+---
 
 <!--
 
