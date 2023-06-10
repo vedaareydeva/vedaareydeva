@@ -26,11 +26,19 @@
 
 ---
 
+### 💚 Socials:
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/vaidehi-deshmukh-768677216/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 
 
 
 <!--
-### 💚 Socials:
+
 **vedaareydeva/vedaareydeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
