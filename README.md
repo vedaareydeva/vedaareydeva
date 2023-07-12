@@ -28,9 +28,10 @@
 ---
 
 ### ⚡ Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vedaareydeva&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)&nbsp;
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vedaareydeva&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedaareydeva&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedaareydeva&theme=dark&line_height=40&hide=css"/> </a>
+<a href=""> <img align="left" src="https://github-readme-stats.vercel.app/api?username=vedaareydeva&theme=dark&line_height=30&hide=css"/> </a>
+<a href=""> <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=vedaareydeva&theme=dark&date_format=j%20M%5B%20Y%5D&line_height=30&hide=css"/> </a>
 
 ---
 
