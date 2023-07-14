@@ -39,9 +39,9 @@
 ### ⚡ Stats:
 
 <div id="stats">
-<a href=""> <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=vedaareydeva&theme=dark&date_format=j%20M%5B%20Y%5D&hide=css"/> </a> 
-<a href=""> <img src="https://github-readme-stats.vercel.app/api?username=vedaareydeva&theme=dark&line_height=30&hide=css"/> </a>
-<a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedaareydeva&theme=dark&line_height=40&hide=css"/> </a>
+<a href=""> <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=vedaareydeva&theme=dark&date_format=j%20M%5B%20Y%5D&hide=css"/> </a> <br>
+<a href=""> <img src="https://github-readme-stats.vercel.app/api?username=vedaareydeva&theme=dark&line_height=30&hide=css"/> </a> <br>
+<a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedaareydeva&theme=dark&line_height=40&hide=css"/> </a> <br>
 
 </div>
 
