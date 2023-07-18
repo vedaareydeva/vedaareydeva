@@ -23,6 +23,7 @@
 <img src = "https://github.com/vedaareydeva/vedaareydeva/assets/71925873/2484b9c7-c0c0-4c92-aa39-3bcf4c74214d" title="sql" alt="sql" width="60" height="40"/>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;  
+
 </div>
 
 ---
