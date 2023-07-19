@@ -39,9 +39,11 @@
 ### ⚡ Stats:
 
 <div id="stats">
-<a href=""> <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=vedaareydeva&theme=dark&date_format=j%20M%5B%20Y%5D&hide=css"/> </a> <br>
-<a href=""> <img src="https://github-readme-stats.vercel.app/api?username=vedaareydeva&theme=dark&line_height=30&hide=css"/> </a> <br>
-<a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedaareydeva&theme=dark&line_height=40&hide=css"/> </a> <br>
+<a href=""> <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=vedaareydeva&theme=dark&date_format=j%20M%5B%20Y%5D&hide=css"/> </a> 
+  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vedaareydeva&count_private=true&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedaareydeva&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
