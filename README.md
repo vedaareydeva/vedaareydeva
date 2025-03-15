@@ -3,11 +3,9 @@
 
 ### 🌻 About me: 
 
-- 📚: Final year student at SRM Institute of Science and Technology, Chennai. 
+- ‎‍💼 : Working as an Apprentice in Bank of America.
 
-- 🎻: Extremely passionate about music.
-
-- ✨: Adores beaches, sunflowers and filming :)
+- ✨: Passionate about learning more of cybersecurity, AI and violin everyday :)
 
 ---
 
